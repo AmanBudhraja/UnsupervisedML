@@ -1,6 +1,6 @@
 # Unsupervised Machine Learning
 
-In this project a machine learning maodel was developed to determine the percentage of a student based on the number of study hours.<br><br>
+In this project a machine learning maodel was developed to determine the optimum number of clusters in the 'Iris dataset'.<br><br>
 
 ## Dataset <br>
 
