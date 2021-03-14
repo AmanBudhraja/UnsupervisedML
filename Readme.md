@@ -1,4 +1,4 @@
-# Supervised Machine Learning
+# Unsupervised Machine Learning
 
 In this project a machine learning maodel was developed to determine the percentage of a student based on the number of study hours.<br><br>
 
